@@ -81,3 +81,20 @@ Next, navigate to Manage > Help Topics to create categories such as Password Res
 <br />
 
 
+### ✅ Summary
+
+This project involves setting up and configuring osTicket on a Windows 10 virtual machine in Microsoft Azure.
+
+Key highlights include:
+
+- Creating and managing user roles and permissions for support staff
+
+- Organizing teams and departments to help manage and route support tickets
+
+- Adding support agents and end users who submit help requests
+
+- Setting up Service Level Agreements (SLAs) to ensure timely responses
+
+- Creating help topics to categorize and prioritize tickets efficiently
+
+This work demonstrates practical skills in managing IT support tools, organizing support teams, and improving service workflows—important for IT support and operations roles.
